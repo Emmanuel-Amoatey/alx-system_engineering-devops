@@ -1,2 +1,2 @@
-#!/bin/bas
--rwxr--r--x
+#!/bin/bash
+chmod u+x
